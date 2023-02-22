@@ -1,0 +1,60 @@
+C:\Users\Kavindu Sandaruwan\Desktop\NSBM\21.2_1st year_2nd sem\OOP\FINAL\Student management system\Student management system\bin\Debug\Student management system.exe.config
+C:\Users\Kavindu Sandaruwan\Desktop\NSBM\21.2_1st year_2nd sem\OOP\FINAL\Student management system\Student management system\bin\Debug\Student management system.exe
+C:\Users\Kavindu Sandaruwan\Desktop\NSBM\21.2_1st year_2nd sem\OOP\FINAL\Student management system\Student management system\bin\Debug\Student management system.pdb
+C:\Users\Kavindu Sandaruwan\Desktop\NSBM\21.2_1st year_2nd sem\OOP\FINAL\Student management system\Student management system\obj\Debug\Student management system.csproj.AssemblyReference.cache
+C:\Users\Kavindu Sandaruwan\Desktop\NSBM\21.2_1st year_2nd sem\OOP\FINAL\Student management system\Student management system\obj\Debug\Student management system.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kavindu Sandaruwan\Desktop\NSBM\21.2_1st year_2nd sem\OOP\FINAL\Student management system\Student management system\obj\Debug\Student_management_system.Properties.Resources.resources
+C:\Users\Kavindu Sandaruwan\Desktop\NSBM\21.2_1st year_2nd sem\OOP\FINAL\Student management system\Student management system\obj\Debug\Student management system.csproj.GenerateResource.cache
+C:\Users\Kavindu Sandaruwan\Desktop\NSBM\21.2_1st year_2nd sem\OOP\FINAL\Student management system\Student management system\obj\Debug\Student management system.csproj.CoreCompileInputs.cache
+C:\Users\Kavindu Sandaruwan\Desktop\NSBM\21.2_1st year_2nd sem\OOP\FINAL\Student management system\Student management system\obj\Debug\Student management system.exe
+C:\Users\Kavindu Sandaruwan\Desktop\NSBM\21.2_1st year_2nd sem\OOP\FINAL\Student management system\Student management system\obj\Debug\Student management system.pdb
+C:\Users\Kavindu Sandaruwan\Desktop\NSBM\21.2_1st year_2nd sem\OOP\FINAL\Student management system\Student management system\obj\Debug\Student_management_system.FirstPage.resources
+C:\Users\Kavindu Sandaruwan\Desktop\NSBM\21.2_1st year_2nd sem\OOP\FINAL\Student management system\Student management system\obj\Debug\Student_management_system.Sign_up.resources
+C:\Users\Kavindu Sandaruwan\Desktop\NSBM\21.2_1st year_2nd sem\OOP\FINAL\Student management system\Student management system\obj\Debug\Student_management_system.Login.resources
+C:\Users\Kavindu Sandaruwan\Desktop\NSBM\21.2_1st year_2nd sem\OOP\FINAL\Student management system\Student management system\obj\Debug\Student_management_system.Home.resources
+C:\Users\Kavindu Sandaruwan\Desktop\NSBM\21.2_1st year_2nd sem\OOP\FINAL\Student management system\Student management system\obj\Debug\Student_management_system.New_student.resources
+C:\Users\Kavindu Sandaruwan\Desktop\NSBM\21.2_1st year_2nd sem\OOP\FINAL\Student management system\Student management system\bin\Debug\Guna.UI2.dll
+C:\Users\Kavindu Sandaruwan\Desktop\NSBM\21.2_1st year_2nd sem\OOP\FINAL\Student management system\Student management system\obj\Debug\Student management system.csproj.CopyComplete
+C:\Users\Kavindu Sandaruwan\Desktop\NSBM\21.2_1st year_2nd sem\OOP\FINAL\Student management system\Student management system\obj\Debug\Student_management_system.UserControls.UC_New_Student.resources
+C:\Users\Kavindu Sandaruwan\Desktop\NSBM\21.2_1st year_2nd sem\OOP\FINAL\Student management system\Student management system\obj\Debug\Student_management_system.UserControls.UC_Student_Details.resources
+C:\Users\Kavindu Sandaruwan\Desktop\NSBM\21.2_1st year_2nd sem\OOP\FINAL\Student management system\Student management system\obj\Debug\Student_management_system.UserControls.UC_Homepanel.resources
+C:\Users\Kavindu Sandaruwan\Desktop\NSBM\21.2_1st year_2nd sem\OOP\FINAL\Student management system\Student management system\obj\Debug\Student_management_system.UserControls.UC_TeacherDetails.resources
+C:\Users\Kavindu Sandaruwan\Desktop\NSBM\21.2_1st year_2nd sem\OOP\FINAL\Student management system\Student management system\obj\Debug\Student_management_system.UserControls.UC_Subject_Details.resources
+C:\Users\Kavindu Sandaruwan\Desktop\NSBM\21.2_1st year_2nd sem\OOP\FINAL\Student management system\Student management system\bin\Debug\Opera DB.mdf
+C:\Users\Kavindu Sandaruwan\Desktop\NSBM\21.2_1st year_2nd sem\OOP\FINAL\Student management system\Student management system\bin\Debug\Opera DB_log.ldf
+C:\Users\Kavindu Sandaruwan\Desktop\NSBM\21.2_1st year_2nd sem\OOP\FINAL\Student management system\Student management system\bin\Debug\StudentmanagementDB.mdf
+C:\Users\Kavindu Sandaruwan\Desktop\NSBM\21.2_1st year_2nd sem\OOP\FINAL\Student management system\Student management system\bin\Debug\StudentmanagementDB_log.ldf
+C:\Users\Kavindu Sandaruwan\Desktop\NSBM\21.2_1st year_2nd sem\OOP\FINAL\Student management system\Student management system\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Kavindu Sandaruwan\Desktop\NSBM\21.2_1st year_2nd sem\OOP\FINAL\Student management system\Student management system\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Kavindu Sandaruwan\Desktop\NSBM\21.2_1st year_2nd sem\OOP\FINAL\Student management system\Student management system\bin\Debug\OperaDB.mdf
+C:\Users\Kavindu Sandaruwan\Desktop\NSBM\21.2_1st year_2nd sem\OOP\FINAL\Student management system\Student management system\bin\Debug\OperaDB_log.ldf
+D:\Github\Student-Management-System\Student management system\Student management system\bin\Debug\Opera DB.mdf
+D:\Github\Student-Management-System\Student management system\Student management system\bin\Debug\Opera DB_log.ldf
+D:\Github\Student-Management-System\Student management system\Student management system\bin\Debug\OperaDB.mdf
+D:\Github\Student-Management-System\Student management system\Student management system\bin\Debug\OperaDB_log.ldf
+D:\Github\Student-Management-System\Student management system\Student management system\bin\Debug\StudentmanagementDB.mdf
+D:\Github\Student-Management-System\Student management system\Student management system\bin\Debug\StudentmanagementDB_log.ldf
+D:\Github\Student-Management-System\Student management system\Student management system\bin\Debug\Student management system.exe.config
+D:\Github\Student-Management-System\Student management system\Student management system\bin\Debug\Student management system.exe
+D:\Github\Student-Management-System\Student management system\Student management system\bin\Debug\Student management system.pdb
+D:\Github\Student-Management-System\Student management system\Student management system\bin\Debug\Guna.UI2.dll
+D:\Github\Student-Management-System\Student management system\Student management system\bin\Debug\System.Data.SqlClient.dll
+D:\Github\Student-Management-System\Student management system\Student management system\bin\Debug\System.Data.SqlClient.xml
+D:\Github\Student-Management-System\Student management system\Student management system\obj\Debug\Student management system.csproj.AssemblyReference.cache
+D:\Github\Student-Management-System\Student management system\Student management system\obj\Debug\Student management system.csproj.SuggestedBindingRedirects.cache
+D:\Github\Student-Management-System\Student management system\Student management system\obj\Debug\Student_management_system.Home.resources
+D:\Github\Student-Management-System\Student management system\Student management system\obj\Debug\Student_management_system.Login.resources
+D:\Github\Student-Management-System\Student management system\Student management system\obj\Debug\Student_management_system.New_student.resources
+D:\Github\Student-Management-System\Student management system\Student management system\obj\Debug\Student_management_system.Sign_up.resources
+D:\Github\Student-Management-System\Student management system\Student management system\obj\Debug\Student_management_system.UserControls.UC_Homepanel.resources
+D:\Github\Student-Management-System\Student management system\Student management system\obj\Debug\Student_management_system.UserControls.UC_New_Student.resources
+D:\Github\Student-Management-System\Student management system\Student management system\obj\Debug\Student_management_system.UserControls.UC_Student_Details.resources
+D:\Github\Student-Management-System\Student management system\Student management system\obj\Debug\Student_management_system.UserControls.UC_Subject_Details.resources
+D:\Github\Student-Management-System\Student management system\Student management system\obj\Debug\Student_management_system.UserControls.UC_TeacherDetails.resources
+D:\Github\Student-Management-System\Student management system\Student management system\obj\Debug\Student_management_system.FirstPage.resources
+D:\Github\Student-Management-System\Student management system\Student management system\obj\Debug\Student_management_system.Properties.Resources.resources
+D:\Github\Student-Management-System\Student management system\Student management system\obj\Debug\Student management system.csproj.GenerateResource.cache
+D:\Github\Student-Management-System\Student management system\Student management system\obj\Debug\Student management system.csproj.CoreCompileInputs.cache
+D:\Github\Student-Management-System\Student management system\Student management system\obj\Debug\Student management system.csproj.CopyComplete
+D:\Github\Student-Management-System\Student management system\Student management system\obj\Debug\Student management system.exe
+D:\Github\Student-Management-System\Student management system\Student management system\obj\Debug\Student management system.pdb
